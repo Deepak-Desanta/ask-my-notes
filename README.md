@@ -16,6 +16,10 @@ The project uses local AI models through Ollama, so no OpenAI API key or paid AP
 - Display the source pages used for an answer
 - Interactive terminal-based question answering
 
+## Demo
+
+![Ask My Notes Demo](screenshots/ask-my-notes-demo-pic.png)
+
 ## RAG Pipeline
 
 ```text
