@@ -1,0 +1,15 @@
+# Python virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Chroma database
+chroma/
+
+# Environment files
+.env
+
+# Backup files
+main_backup.py
